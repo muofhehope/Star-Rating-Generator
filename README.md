@@ -44,7 +44,9 @@ Technologies:
 React
 JavaScript (ES6+)
 
-DEMO:<img width="718" height="290" alt="Screenshot from 2026-01-22 10-37-38" src="https://github.com/user-attachments/assets/e675bec7-e7b0-41f7-af5e-d07f5263c76f" />
+DEMO:
+
+<img width="718" height="290" alt="Screenshot from 2026-01-22 10-37-38" src="https://github.com/user-attachments/assets/e675bec7-e7b0-41f7-af5e-d07f5263c76f" />
 
 <img width="718" height="290" alt="Screenshot from 2026-01-22 10-37-29" src="https://github.com/user-attachments/assets/58166138-7003-4862-804c-773421042e9a" />
 
